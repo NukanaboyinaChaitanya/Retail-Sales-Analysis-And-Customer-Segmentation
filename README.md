@@ -63,12 +63,10 @@ The segmented dataset was exported as **customer_segments.csv** and used in Powe
 
 ## Project Structure
 
-dataset  
+Data
  SuperStore_Sales_Dataset.csv  
  customer_segments.csv  
+customer_segmentation.ipynb  
 
-notebooks  
- customer_segmentation.ipynb  
-
-dashboard  
+Dashboard  
  Retail Sales Analysis & Customer Segmentation.pbix
