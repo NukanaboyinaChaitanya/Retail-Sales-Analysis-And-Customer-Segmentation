@@ -1,7 +1,3 @@
-# Retail Sales Analysis & Customer Segmentation
-
-## Overview
-This project analyzes retail sales data from the Superstore dataset to understand business performance and customer purchasing behavior. Customer segmentation was performed using **RFM analysis and K-Means clustering** to identify different customer groups.
 
 ---
 
